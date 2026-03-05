@@ -1,4 +1,4 @@
-# VEDAS WebGuard 🔍
+#  WebGuard 🔍
 
 Stack-based (depth-first) web crawler that monitors every internal page of a site.
 
